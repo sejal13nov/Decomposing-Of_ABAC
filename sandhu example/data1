@@ -1,0 +1,16 @@
+user1 clearanc assign topsecrt secret fulltime
+user1 part assign topsecrt unclassified fulltime
+user1 part assign topsecrt unclassified parttime
+user1 part assign topsecrt confidential parttime
+user1 part assign topsecrt confidential fulltime
+user1 part assign topsecrt secret fulltime
+user1 part assign topsecrt secret parttime
+user1 part assign topsecrt topsecret fulltime
+user1 part assign topsecrt topsecret parttime
+user1 read obj1 topsecrt unclassified fulltime
+user1 read obj1 topsecrt unclassified parttime
+user1 read obj1 topsecrt confidential parttime
+user1 read obj1 topsecrt confidential fulltime
+user1 read obj1 topsecrt secret fulltime
+user1 read obj1 topsecrt secret parttime
+user1 read obj1 topsecrt topsecret fulltime

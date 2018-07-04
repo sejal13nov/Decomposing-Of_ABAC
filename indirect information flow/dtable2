@@ -1,0 +1,8 @@
+Subject user2 T F F F F F 
+Object account F T F F F F 
+Action read F F T F F F 
+Day working F F F T F F 
+Timing nonwork F F F F T F 
+Role student F F F F F F 
+Clearance secret F F F F F F 
+classification secret F F F F F F 

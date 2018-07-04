@@ -1,0 +1,4 @@
+user1 A1 write
+user2 A1 read
+user2 A2 write
+user3 A2 read

@@ -1,0 +1,19 @@
+Subject user1 T F F F 
+Subject user2 F T T F 
+Objects A1 T T F F 
+Objects A2 F F T T 
+Action read F T F T 
+Action write T F T F 
+Day holiday F F F F 
+Day working F F F F 
+Day  F F F F 
+Timing work F F F F 
+Timing nonwork F F F F 
+Clearance unclassified F F F F 
+Clearance secret F F F F 
+Clearance topsecret F F F F 
+Clearance confidential F F F F 
+Classification unclassified F F F F 
+Classification secret F F F F 
+Classification topsecret F F F F 
+Classification confidential F F F F 

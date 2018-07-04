@@ -1,0 +1,6 @@
+example, sandhu example, indirect flow are implemented in C++.
+It's a cpp programme. We can run this on any tool which supports C++.
+
+Steps: Please run the following commands on terminal.
+	1.	g++ new_files.cpp 
+	2.	./a.out Query metadata1 data1 RBAC RBAC_act  

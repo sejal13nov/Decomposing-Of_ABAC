@@ -1,0 +1,13 @@
+Subject user1 T T T T T T T T T T T T T T T T 
+Objects obj1 F F F F F F F F F T T T T T T T 
+Objects clearanc T F F F F F F F F F F F F F F F 
+Objects part F T T T T T T T T F F F F F F F 
+Action read F F F F F F F F F T T T T T T T 
+Action assign T T T T T T T T T F F F F F F F 
+to topsecrt T T T T T T T T T T T T T T T T 
+Clearance unclassified F T T F F F F F F T T F F F F F 
+Clearance secret T F F F F T T F F F F F F T T F 
+Clearance topsecret F F F F F F F T T F F F F F F T 
+Clearance confidential F F F T T F F F F F F T T F F F 
+worktype parttime F F T T F F T F T F T T F F T F 
+worktype fulltime T T F F T T F T F T F F T T F T 

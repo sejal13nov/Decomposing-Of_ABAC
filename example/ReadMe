@@ -1,0 +1,18 @@
+How To Run
+It's a cpp programme. We can run this on any tool which supports C++.
+
+Steps: Please run the following commands on terminal.
+	1.	g++ new_files.cpp 
+	2.	./a.out Query metadata1 data1 RBAC RBAC_act  
+
+Here Query metdata1 data1 RBAC RBAC_act are input files to be processed by programme.
+In this folder,
+Query contains the query to be processed.
+data1 contains access control rules.
+RBAC contains  user to role mapping.
+RBAC_act contains role to permission mapping.
+
+OUTPUT
+FinalDecisionTable will contatin Decision Table.
+DAC file will contain DAC rules.
+AttributeConstraints will contain Attribute Constraints.
